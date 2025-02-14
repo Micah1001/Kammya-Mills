@@ -3,9 +3,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: #fff;
+  color: gold;
   font-size: 16px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /* Home Page */
@@ -19,7 +19,7 @@
 }
 
 .hero {
-  background-image: url('images.png');
+  background-image: url('SL-111622-53780-136.jpg');
   background-size: cover;
   background-position: center;
   font-family: cursive;
